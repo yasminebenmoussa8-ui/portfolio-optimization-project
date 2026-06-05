@@ -1,4 +1,4 @@
-### Automated Portfolio Optimization & Analytics Engine
+# Automated Portfolio Optimization & Analytics Engine
 
 An enterprise-grade Python application that automates end-to-end portfolio construction using Modern Portfolio Theory (MPT). The system downloads real-time market data, computes the Markowitz Efficient Frontier, optimizes asset allocations, and compiles a publication-quality PDF investment report.
 
@@ -6,9 +6,9 @@ An enterprise-grade Python application that automates end-to-end portfolio const
 - Calculates optimal weights for the Maximum Sharpe Ratio and Minimum Volatility portfolios.
 - Generates and saves a clean, modern plot of the Efficient Frontier.
 - Compiles results and charts into a polished PDF report using ReportLab.
-# Fully modular code structure decoupled from Jupyter Notebooks.
+### Fully modular code structure decoupled from Jupyter Notebooks.
 
-# Project Structure :
+## Project Structure :
 ```text
 Portfolio optimisation/
 │
