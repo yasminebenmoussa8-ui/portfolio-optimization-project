@@ -1,4 +1,4 @@
-# Automated Portfolio Optimization & Analytics Engine
+# Automated portfolio optimization
 
 An enterprise-grade Python application that automates end-to-end portfolio construction using Modern Portfolio Theory (MPT). The system downloads real-time market data, computes the Markowitz Efficient Frontier, optimizes asset allocations, and compiles a publication-quality PDF investment report.
 
