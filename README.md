@@ -1,7 +1,7 @@
 # Automated portfolio optimization
 
-An enterprise-grade Python application that automates end-to-end portfolio construction using Modern Portfolio Theory (MPT). The system downloads real-time market data, computes the Markowitz Efficient Frontier, optimizes asset allocations, and compiles a publication-quality PDF investment report.
-
+A Python-based portfolio construction tool using Modern Portfolio Theory (MPT).
+The application retrieves market data, computes the Markowitz Efficient Frontier, optimizes asset allocations, and generates a concise report in PDF format.
 - Automated Data Pipeline: Fetches historical market data dynamically via Yahoo Finance.
 - Calculates optimal weights for the Maximum Sharpe Ratio and Minimum Volatility portfolios.
 - Generates and saves a clean, modern plot of the Efficient Frontier.
