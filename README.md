@@ -11,12 +11,11 @@ The application retrieves market data, computes the Markowitz Efficient Frontier
 ## Project Structure :
 ```text
 Portfolio optimisation/
-│
-├── main.py                  # Production entry point (orchestrates the workflow)
-├── src/                     # Core application modules
-│   ├── data_loader.py       # Handles market data ingestion
-│   ├── optimizer.py         # Executes MPT mathematical optimization
-│   ├── visualizations.py    # Plots the Efficient Frontier chart
-│   └── report_generator.py  # Compiles and styles the final PDF report
-├── IMAGES/                  # Stored visualization outputs
-└── reports/                 # Stored PDF artifacts
+main.py                   Production entry point (orchestrates the workflow)
+  src/                     Core application modules
+      data_loader.py         Handles market data ingestion
+      optimizer.py           Executes MPT mathematical optimization
+      visualizations.py      Plots the Efficient Frontier chart
+      report_generator.py    Compiles and styles the final PDF report
+  IMAGES/                  Stored visualization outputs
+  reports/                 Stored PDF artifacts
